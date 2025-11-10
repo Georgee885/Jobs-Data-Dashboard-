@@ -8,3 +8,6 @@ Key Insights:
 Total Job Count: 479K
 Average Yearly Salary: $115K
 Average Hourly Rate: $8
+
+<img width="728" height="397" alt="image" src="https://github.com/user-attachments/assets/17fa2dd3-b394-421a-96aa-1eb4961442ca" />
+
